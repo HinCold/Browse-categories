@@ -13,3 +13,6 @@ tqdm
 boto3
 requests
 regex
+BeautifulSoup
+selenium
+pillow
